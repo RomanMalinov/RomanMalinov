@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" alt="Котенок за компьютером">
-</div>
-
 <h2 style="color: #007bff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Привет! Меня зовут Роман Малинов, и я веб-разработчик.</h2>
 
 <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Я увлечен созданием современных, удобных и функциональных веб-приложений.</p>
