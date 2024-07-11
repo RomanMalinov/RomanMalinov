@@ -1,6 +1,6 @@
 # Привет, я веб-разработчик! 👋
 
-<iframe src="https://giphy.com/embed/26n6xF5M2Ht4eKdO0" width="457" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/quizizz-26n6xF5M2Ht4eKdO0">via GIPHY</a></p>
+![Котенок за компьютером](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
 ## О себе
 
