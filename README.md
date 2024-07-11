@@ -1,6 +1,8 @@
 # Привет, я веб-разработчик! 👋
 
-![Котенок за компьютером](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Котенок за компьютером">
+</div>
 
 ## О себе
 
@@ -48,3 +50,4 @@
 - Телефон: +7 (968) 871-66-71
 - Telegram: [@romanmalinov](https://t.me/romanmalinov)
 - Почта: [malinovroman@gmail.ru](mailto:malinovroman@gmail.ru)
+
