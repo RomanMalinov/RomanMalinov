@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" alt="Котенок за компьютером">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" alt="Котенок за компьютером" style="display: inline-block;">
+  <p style="display: inline-block; vertical-align: top;">Привет! Меня зовут Роман Малинов, и я веб-разработчик. Я увлечен созданием современных, удобных и функциональных веб-приложений.</p>
 </div>
 
-
-## Привет! Меня зовут Роман Малинов, и я веб-разработчик. Я увлечен созданием современных, удобных и функциональных веб-приложений. 
 
 
 ## Навыки и технологий, с которыми я умею работать:
