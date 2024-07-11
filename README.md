@@ -1,9 +1,12 @@
 ### Привет! Меня зовут Роман Малинов, и я веб-разработчик. Я увлечен созданием современных, удобных и функциональных веб-приложений. 
 
+***
 
 ### Навыки и технологий, с которыми я умею работать:
 
 HTML, CSS, SASS Адаптивная верстка, Flexbox, Grid Layout, JavaScript, TypeScript, React, GIT, Webpack, ООП, React, Redux, Redux Toolkit, React DnD, WebSocket, Next JS, Node JS, NPM, REST API, Express, MongoDB, Mongoose, Figma
+
+***
 
 ### Контакты:
 
