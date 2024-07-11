@@ -1,99 +1,95 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Котенок за компьютером">
-</div>
-
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Роман Малинов - Веб-разработчик</title>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: 'Roboto', sans-serif;
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
             margin: 0;
             padding: 0;
-            background-color: #f5f5f5;
-            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
         }
         .container {
-            width: 90%;
             max-width: 800px;
-            margin: 0 auto;
+            width: 100%;
+            background: #fff;
             padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
             border-radius: 8px;
         }
         h1 {
-            font-weight: 700;
+            font-family: 'Georgia', serif;
             font-size: 2em;
-            color: #4CAF50;
+            color: #333;
             text-align: center;
         }
         h2 {
-            font-weight: 400;
+            font-family: 'Georgia', serif;
             font-size: 1.5em;
-            color: #333;
+            color: #444;
+            margin-top: 20px;
         }
-        p {
-            line-height: 1.6;
-        }
-        .skills, .contacts {
-            margin-bottom: 20px;
-        }
-        .skills ul, .contacts ul {
+        ul {
             list-style-type: none;
             padding: 0;
         }
-        .skills li, .contacts li {
-            background: #e0f7fa;
+        ul li {
+            background: #e2e2e2;
+            margin: 10px 0;
             padding: 10px;
-            margin: 5px 0;
-            border-radius: 5px;
-            font-weight: 300;
+            border-radius: 4px;
         }
-        .contacts a {
-            color: #333;
+        a {
+            color: #3498db;
             text-decoration: none;
         }
-        .contacts a:hover {
+        a:hover {
             text-decoration: underline;
+        }
+        .contacts {
+            margin-top: 20px;
+        }
+        .contacts li {
+            background: #e2e2e2;
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
         }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Роман Малинов</h1>
-        <h2>Веб-разработчик</h2>
-        <p>Я увлечен созданием современных, удобных и функциональных веб-приложений.</p>
+        <p>Веб-разработчик, увлечённый созданием современных, удобных и функциональных веб-приложений.</p>
         
-        <div class="skills">
-            <h2>Навыки и технологии</h2>
-            <ul>
-                <li>HTML, CSS, SASS</li>
-                <li>Адаптивная верстка, Flexbox, Grid Layout</li>
-                <li>JavaScript, TypeScript</li>
-                <li>React, Redux, Redux Toolkit</li>
-                <li>React DnD, WebSocket</li>
-                <li>Next JS, Node JS</li>
-                <li>NPM, Webpack, GIT</li>
-                <li>REST API, Express</li>
-                <li>MongoDB, Mongoose</li>
-                <li>Figma</li>
-            </ul>
-        </div>
+        <h2>Навыки и технологии</h2>
+        <ul>
+            <li>HTML, CSS, SASS</li>
+            <li>Адаптивная верстка, Flexbox, Grid Layout</li>
+            <li>JavaScript, TypeScript</li>
+            <li>React, Redux, Redux Toolkit, React DnD</li>
+            <li>WebSocket, Next JS</li>
+            <li>Node JS, NPM</li>
+            <li>REST API, Express</li>
+            <li>MongoDB, Mongoose</li>
+            <li>Figma</li>
+            <li>GIT, Webpack, ООП</li>
+        </ul>
         
-        <div class="contacts">
-            <h2>Контакты</h2>
-            <ul>
-                <li>Телефон: +7 (968) 871-66-71</li>
-                <li>Telegram: <a href="https://t.me/romanmalinov">@romanmalinov</a></li>
-                <li>Почта: <a href="mailto:malinovroman@gmail.ru">malinovroman@gmail.ru</a></li>
-            </ul>
-        </div>
+        <h2>Контакты</h2>
+        <ul class="contacts">
+            <li>Телефон: +7 (968) 871-66-71</li>
+            <li>Telegram: <a href="https://t.me/romanmalinov" target="_blank">@romanmalinov</a></li>
+            <li>Почта: <a href="mailto:malinovroman@gmail.ru">malinovroman@gmail.ru</a></li>
+        </ul>
     </div>
 </body>
 </html>
+
