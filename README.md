@@ -1,7 +1,5 @@
-<div >
-
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Котенок за компьютером">
-  <p>Привет! Меня зовут Роман Малинов, и я веб-разработчик. Я увлечен созданием современных, удобных и функциональных веб-приложений.  </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" alt="Котенок за компьютером">
 </div>
 
 
