@@ -8,7 +8,7 @@
   <li>HTML, CSS, SASS</li>
   <li>Адаптивная верстка, Flexbox, Grid Layout</li>
   <li>JavaScript, TypeScript, React, Redux, Redux Toolkit, React DnD, WebSocket</li>
-  <li>Node.js', 'Express', 'Nest.js</li>
+  <li>Node.js, Express, Nest.js</li>
   <li>MongoDB, Mongoose, PostgreSQL</li>
   <li> GIT, Webpack, Docker, Postman, Figma</li>
 </ul>
