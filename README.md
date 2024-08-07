@@ -7,7 +7,7 @@
 <ul style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <li>HTML, CSS, SASS</li>
   <li>Адаптивная верстка, Flexbox, Grid Layout</li>
-  <li>JavaScript, TypeScript, React, Redux, Redux Toolkit, React DnD, WebSocket, Next J</li>
+  <li>JavaScript, TypeScript, React, Redux, Redux Toolkit, React DnD, WebSocket</li>
   <li>Node.js', 'Express', 'Nest.js</li>
   <li>MongoDB, Mongoose, PostgreSQL</li>
   <li> GIT, Webpack, Docker, Postman, Figma</li>
