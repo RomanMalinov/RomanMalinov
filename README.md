@@ -8,8 +8,8 @@
   <li>HTML, CSS, SASS</li>
   <li>Адаптивная верстка, Flexbox, Grid Layout</li>
   <li>JavaScript, TypeScript</li>
-  <li>React, GIT, Webpack</li>
-  <li>ООП, React, Redux, Redux Toolkit</li>
+  <li>React, Redux, Redux Toolkit</li>
+  <li>ООП, GIT, Webpack</li>
   <li>React DnD, WebSocket, Next JS</li>
   <li>Node JS, NPM, REST API, Express</li>
   <li>MongoDB, Mongoose</li>
