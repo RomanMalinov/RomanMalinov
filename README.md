@@ -7,13 +7,10 @@
 <ul style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <li>HTML, CSS, SASS</li>
   <li>Адаптивная верстка, Flexbox, Grid Layout</li>
-  <li>JavaScript, TypeScript</li>
-  <li>React, Redux, Redux Toolkit</li>
-  <li>ООП, GIT, Webpack</li>
-  <li>React DnD, WebSocket, Next JS</li>
-  <li>Node JS, NPM, REST API, Express</li>
-  <li>MongoDB, Mongoose</li>
-  <li>Figma</li>
+  <li>JavaScript, TypeScript, React, Redux, Redux Toolkit, React DnD, WebSocket, Next J</li>
+  <li>Node.js', 'Express', 'Nest.js</li>
+  <li>MongoDB, Mongoose, PostgreSQL</li>
+  <li> GIT, Webpack, Docker, Postman, Figma</li>
 </ul>
 
 <h3 style="color: #007bff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Контакты:</h3>
