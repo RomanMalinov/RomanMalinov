@@ -26,4 +26,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RomanMalinov&theme=moltack)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RomanMalinov&theme=moltack)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RomanMalinov&theme=moltack)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RomanMalinov&show_icons=true&locale=en&layout=compact&theme=aura" alt="RomanMalinov" /></p>
 
