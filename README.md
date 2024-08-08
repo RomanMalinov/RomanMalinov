@@ -21,3 +21,8 @@
   <li>Почта: <a href="mailto:malinovroman@gmail.ru" style="color: #007bff; text-decoration: none; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">malinovroman@gmail.ru</a></li>
 </ul>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katkovatanya&theme=moltack)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=katkovatanya&theme=moltack)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=katkovatanya&theme=moltack)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=katkovatanya&theme=moltack)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=katkovatanya&theme=moltack)
