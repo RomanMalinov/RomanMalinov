@@ -29,3 +29,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RomanMalinov&show_icons=true&locale=en&layout=compact&theme=aura" alt="RomanMalinov" /></p>
 
 <a href="https://github.com/RomanMalinov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanMalinov&langs_count=10&title_color=f97316&text_color=6366f1&icon_color=facc15&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<a href="https://github.com/RomanMalinov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanMalinov&langs_count=10&title_color=f97316&text_color=6366f1&icon_color=facc15&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="500" /></a>
