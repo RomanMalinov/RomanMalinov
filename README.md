@@ -46,13 +46,6 @@
 </p>
 
 
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomanMalinov&theme=moltack)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RomanMalinov&theme=moltack)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RomanMalinov&theme=moltack)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RomanMalinov&theme=moltack)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RomanMalinov&theme=moltack)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RomanMalinov&show_icons=true&locale=en&layout=compact&theme=aura" alt="RomanMalinov" /></p>
 
-<a href="https://github.com/RomanMalinov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanMalinov&langs_count=10&title_color=f97316&text_color=6366f1&icon_color=facc15&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+
