@@ -12,7 +12,7 @@
   <li>MongoDB, Mongoose, PostgreSQL</li>
   <li> GIT, Webpack, Docker, Postman, Figma</li>
 </ul>
-# <h3 style="color: #007bff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Навыки и технологии, с которыми я умею работать:</h3>
+<h3 style="color: #007bff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Инструменты и технологии, с которыми я умею работать:</h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
