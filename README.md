@@ -18,9 +18,9 @@
 
 <p>
   <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" height="30px">
-  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" height="30px">
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css" height="30px">
   <img src="https://img.shields.io/badge/-SCSS-%23F7DF1C?style=flat-square&logo=sass" height="30px">
-  </p>
+</p>
   <p>
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C" height="20">
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height="20">
