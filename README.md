@@ -13,7 +13,7 @@
   <li> GIT, Webpack, Docker, Postman, Figma</li>
 </ul>
 ## my main stack:
-serif;">Инструменты и технологии, с которыми я умею работать:</h3>
+
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/-SCSS-%23F7DF1C?style=flat-square&logo=sass)
