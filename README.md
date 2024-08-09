@@ -33,6 +33,27 @@
 ![Postman](https://img.shields.io/badge/-Postman-lightblue?style=flat-square&logo=Postman)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker)
 
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" height="20">
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" height="20">
+  <img src="https://img.shields.io/badge/-SCSS-%23F7DF1C?style=flat-square&logo=sass" height="20">
+  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C" height="20">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height="20">
+  <img src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react" height="20">
+  <img src="https://img.shields.io/badge/Redux%20%20Toolkit-8A2BE2" height="20">
+  <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack" height="20">
+  <img src="https://img.shields.io/badge/-Jest-greenC?style=flat-square&logo=jest" height="20">
+  <img src="https://img.shields.io/badge/-Cypress-lightgrey?style=flat-square&logo=Cypress" height="20">
+  <img src="https://img.shields.io/badge/-Node.js-brightgreen?style=flat-square&logo=Node.js" height="20">
+  <img src="https://img.shields.io/badge/-Express-lightgray?style=flat-square&logo=Express" height="20">
+  <img src="https://img.shields.io/badge/-Mongodb-gray?style=flat-square&logo=Mongodb" height="20">
+  <img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=PostgreSQL" height="20">
+  <img src="https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=Nestjs" height="20">
+  <img src="https://img.shields.io/badge/-TypeORM-yellow?style=flat-square&logo=TypeORM" height="20">
+  <img src="https://img.shields.io/badge/-Postman-lightblue?style=flat-square&logo=Postman" height="20">
+  <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker" height="20">
+</p>
+
 <h3 style="color: #007bff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Контакты:</h3>
 
 <ul style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
