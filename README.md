@@ -46,5 +46,5 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="30px">
 </p>
 
-<h4></h4>
+<h2></h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RomanMalinov&show_icons=true&locale=en&layout=compact&theme=aura" alt="RomanMalinov" /></p>
