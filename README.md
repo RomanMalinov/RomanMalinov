@@ -6,9 +6,9 @@
 
 <ul style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <li>HTML, CSS, SASS</li>
-    <img src="https://img.shields.io/badge/HTML-6CADDF?style=for-the-badge&logo=HTML5&logoColor=000000"/>
-   <img src="https://img.shields.io/badge/CSS-6CADDF?style=for-the-badge&logo=CSS&logoColor=000000"/>
-   <img src="https://img.shields.io/badge/CSS3-6CADDF?style=for-the-badge&logo=CSS3&logoColor=000000"/>
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![SASS](https://img.shields.io/badge/-SCSS-%23F7DF1C?style=flat-square&logo=sass)
   <li>Адаптивная верстка, Flexbox, Grid Layout</li>
   <li>JavaScript, TypeScript, React, Redux, Redux Toolkit, React DnD, WebSocket</li>
   <li>Node.js, Express, Nest.js</li>
