@@ -1,5 +1,7 @@
 ## Привет! Меня зовут Роман, и я начинающий веб-разработчик. Я увлечен созданием современных, удобных и функциональных веб-приложений.
 
+<h3 style="color: #007bff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Навыки и технологии, с которыми я умею работать:</h3>
+
 <p>
   <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" height="30px">
   <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" height="30px">
