@@ -44,8 +44,6 @@
 <h2></h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RomanMalinov&show_icons=true&locale=en&layout=compact&theme=aura" alt="RomanMalinov" /></p>
 
-<h3 style="color: #007bff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Контакты:</h3>
-
 ## Мои контакты:
 <ul style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <li>Телефон: +7 (968) 871-66-71</li>
