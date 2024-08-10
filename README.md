@@ -2,9 +2,6 @@
 
 <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;" >Я увлечен созданием современных, удобных и функциональных веб-приложений.</h3>
 
-## 
-
-I'm a beginner Full-stack developer.
 
 ---
 
