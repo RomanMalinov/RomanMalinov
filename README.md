@@ -1,5 +1,5 @@
 <h2 style="color: #007bff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Привет! Меня зовут Роман, и я нащтнающий веб-разработчик.</h2>
----
+
 <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;" >Я увлечен созданием современных, удобных и функциональных веб-приложений.</h3>
 
 <h2 style="color: #007bff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Инструменты и технологии, с которыми я умею работать:</h2>
@@ -45,5 +45,5 @@
   <img src="https://img.shields.io/badge/-Postman-lightblue?style=flat-square&logo=postman" height="30px">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="30px">
 </p>
----
+<h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RomanMalinov&show_icons=true&locale=en&layout=compact&theme=aura" alt="RomanMalinov" /></p>
