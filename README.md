@@ -1,5 +1,5 @@
 <h2 style="color: #007bff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Привет! Меня зовут Роман, и я нащтнающий веб-разработчик.</h2>
-##---
+---
 <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;" >Я увлечен созданием современных, удобных и функциональных веб-приложений.</h3>
 
 <h2 style="color: #007bff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Инструменты и технологии, с которыми я умею работать:</h2>
