@@ -57,7 +57,7 @@
 
 ## Мои проекты:
 
-### [Coconut Cat](https://romanmalinov.github.io/coconutCat/)
+### [Coconut Cat](https://romanmalinov.github.io/coconutCat/images/element__img-cat-3.jpg)
 [![Coconut Cat](https://romanmalinov.github.io/coconutCat/cat-preview.jpg)](https://romanmalinov.github.io/coconutCat/)
 
 Coconut Cat — это игривое и интерактивное веб-приложение. Оно разработано как веселая игра с виртуальным питомцем, позволяющая пользователям взаимодействовать с котом через различные мини-игры и активности. Проект демонстрирует продвинутые анимации на JavaScript и техники вовлечения пользователей.
