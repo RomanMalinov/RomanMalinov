@@ -68,7 +68,7 @@
     </td>
   </tr>
   <tr>
-    <td style="background: maroon;">
+    <td>
       <a href="https://romanmalinov.github.io/react-stellar-burger./">
         <img src="https://code.s3.yandex.net/react/code/bun-02.png" width="300"/>
       </a>
