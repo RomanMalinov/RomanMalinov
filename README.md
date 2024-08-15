@@ -55,8 +55,8 @@
 </ul>
 
 ## Мои проекты:
-
-<table>
+<
+<table style="background-color: red>
   <tr>
     <td style="background-color: red;">
       <a href="https://romanmalinov.github.io/coconutCat/">
@@ -77,7 +77,6 @@
       <b>Stellar Burger</b> — это веб-приложение на React для создания и заказа бургеров по индивидуальному рецепту. Приложение включает в себя отслеживание заказов в реальном времени, настройку ингредиентов и удобный пользовательский интерфейс.
     </td>
   </tr>
-</table>
 
 
 
