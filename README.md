@@ -55,6 +55,7 @@
 </ul>
 
 
+## Мои проекты:
 
 | [<img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="100"/>](https://romanmalinov.github.io/coconutCat/) | [**Coconut Cat**](https://romanmalinov.github.io/coconutCat/) — это интерактивное веб-приложение, посвященное домашнему питомцу. Проект демонстрирует продвинутые анимации на JavaScript и техники вовлечения пользователей. |
 | :-------------------------------- | :-------------------------------- |
