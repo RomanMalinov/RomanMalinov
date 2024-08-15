@@ -54,7 +54,7 @@
   <li>Почта: <a href="mailto:malinovroman@gmail.ru" style="color: #007bff; text-decoration: none; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">malinovroman@gmail.ru</a></li>
 </ul>
 
-## Мои проекты:
+ Мои проекты:
 
 | [<img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="100"/>](https://romanmalinov.github.io/coconutCat/) | [**Coconut Cat**](https://romanmalinov.github.io/coconutCat/) — это интерактивное веб-приложение, посвященное домашнему питомцу. Проект демонстрирует продвинутые анимации на JavaScript и техники вовлечения пользователей. |
 | :-------------------------------- | :-------------------------------- |
