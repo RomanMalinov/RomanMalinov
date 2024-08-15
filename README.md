@@ -56,14 +56,15 @@
 
 
 ## Мои проекты:
-<div style="display: grid; grid-template-columns: auto 1fr; gap: 20px; row-gap: 40px;">
+
+<div style="display: grid; grid-template-columns: auto 1fr; gap: 20px;">
   <a href="https://romanmalinov.github.io/coconutCat/">
     <img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="300"/>
   </a>
   <div>
     <b>Coconut Cat</b> — это интерактивное веб-приложение, посвященное домашнему питомцу. Проект демонстрирует продвинутые анимации на JavaScript и техники вовлечения пользователей.
   </div>
-  
+
   <a href="https://romanmalinov.github.io/react-stellar-burger/">
     <img src="https://code.s3.yandex.net/react/code/bun-02.png" width="300"/>
   </a>
