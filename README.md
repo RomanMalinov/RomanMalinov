@@ -55,25 +55,8 @@
 </ul>
 
 ## Мои проекты:
-<table style="background-color: #d3d3d3">
-  <tr>
-    <td>
-      <a href="https://romanmalinov.github.io/coconutCat/">
-        <img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="300"/>
-      </a>
-    </td>
-    <td>
-      <b style=">Coconut Cat</b> — это интерактивное веб-приложение посвещенное домашнему питомцу. Проект демонстрирует продвинутые анимации на JavaScript и техники вовлечения пользователей.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://romanmalinov.github.io/react-stellar-burger./">
-        <img src="https://code.s3.yandex.net/react/code/bun-02.png" width="300"/>
-      </a>
-    </td>
-    <td>
-      <p style="background-color: red";>Stellar Burger</p> — это веб-приложение на React для создания и заказа бургеров по индивидуальному рецепту. Приложение включает в себя отслеживание заказов в реальном времени, настройку ингредиентов и удобный пользовательский интерфейс.
-    </td>
-  </tr>
-</table>
+
+| [Coconut Cat](https://romanmalinov.github.io/coconutCat/) | [Stellar Burger](https://romanmalinov.github.io/react-stellar-burger./) |
+| :-------------------------------- | :-------------------------------- |
+| [<img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="100"/>](https://romanmalinov.github.io/coconutCat/) | [<img src="https://code.s3.yandex.net/react/code/bun-02.png" width="100"/>](https://romanmalinov.github.io/react-stellar-burger./) |
+| **Coconut Cat** — это интерактивное веб-приложение посвещенное домашнему питомцу. Проект демонстрирует продвинутые анимации на JavaScript и техники вовлечения пользователей. | **Stellar Burger** — это веб-приложение на React для создания и заказа бургеров по индивидуальному рецепту. Приложение включает в себя отслеживание заказов в реальном времени, настройку ингредиентов и удобный пользовательский интерфейс. |
