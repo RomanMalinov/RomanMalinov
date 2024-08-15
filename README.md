@@ -59,7 +59,7 @@
 <table style="background: #496791";>
   <tr>
     <td>
-      <a href="https://romanmalinov.github.io/coconutCat/">
+      <a href="https://romanmalinov.github.io/coconutCat/ style="width: 200px">
         <img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="100"/>
       </a>
     </td>
@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://romanmalinov.github.io/react-stellar-burger./">
+      <a href="https://romanmalinov.github.io/react-stellar-burger./ style="width: 200px"">
         <img src="https://code.s3.yandex.net/react/code/bun-02.png" width="100"/>
       </a>
     </td>
