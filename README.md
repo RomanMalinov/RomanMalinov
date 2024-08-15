@@ -55,8 +55,8 @@
 </ul>
 
 ## Мои проекты:
-
-<table style="background-color: #d3d3d3;">
+<div style="background-color: #d3d3d3">
+<table style="background-color: #d3d3d3">
   <tr>
     <td>
       <a href="https://romanmalinov.github.io/coconutCat/">
@@ -78,3 +78,4 @@
     </td>
   </tr>
 </table>
+</div>
