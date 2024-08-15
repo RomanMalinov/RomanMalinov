@@ -70,14 +70,14 @@
   </table>
   <table>
   <tr>
-    <td>
+    <td  width="500">
       <a href="https://romanmalinov.github.io/react-stellar-burger./">
         <img src="https://code.s3.yandex.net/react/code/bun-02.png" width="300"/>
       </a>
     </td>
     <td>
       <b>Stellar Burger</b> — это веб-приложение на React для создания и заказа бургеров по индивидуальному рецепту. Приложение включает в себя отслеживание заказов в реальном времени, настройку ингредиентов и удобный пользовательский интерфейс.
-    </td  width="500">
+    </td >
   </tr>
  </table>
 
