@@ -56,7 +56,7 @@
 
 
 ## Мои проекты:
-<table style="background: maroon;">
+<table>
   <tr>
     <td>
       <a href="https://romanmalinov.github.io/coconutCat/">
@@ -68,9 +68,9 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://romanmalinov.github.io/react-stellar-burger./" style="background: maroon;">
-        <img src="https://code.s3.yandex.net/react/code/bun-02.png" width="300" style="background: maroon;"/>
+    <td style="background: maroon;">
+      <a href="https://romanmalinov.github.io/react-stellar-burger./">
+        <img src="https://code.s3.yandex.net/react/code/bun-02.png" width="300"/>
       </a>
     </td>
     <td>
