@@ -47,12 +47,7 @@
 <h2></h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RomanMalinov&show_icons=true&locale=en&layout=compact&theme=aura" alt="RomanMalinov" /></p>
 
-## Мои контакты:
-<ul style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <li>Телефон: +7 (968) 871-66-71</li>
-  <li>Telegram: <a href="https://t.me/romanmalinov" style="color: #007bff; text-decoration: none; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">@romanmalinov</a></li>
-  <li>Почта: <a href="mailto:malinovroman@gmail.ru" style="color: #007bff; text-decoration: none; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">malinovroman@gmail.ru</a></li>
-</ul>
+## Мои проекты:
 
 <table>
   <tr>
@@ -83,6 +78,13 @@
     </td>
   </tr>
 </table>
+
+## Мои контакты:
+<ul style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <li>Телефон: +7 (968) 871-66-71</li>
+  <li>Telegram: <a href="https://t.me/romanmalinov" style="color: #007bff; text-decoration: none; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">@romanmalinov</a></li>
+  <li>Почта: <a href="mailto:malinovroman@gmail.ru" style="color: #007bff; text-decoration: none; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">malinovroman@gmail.ru</a></li>
+</ul>
 
 
 
