@@ -55,7 +55,6 @@
 </ul>
 
 ## Мои проекты:
-<div style="background-color: #d3d3d3">
 <table style="background-color: #d3d3d3">
   <tr>
     <td>
