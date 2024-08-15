@@ -56,7 +56,7 @@
 
 ## Мои проекты:
 
-<table>
+<table style="background-color: #d3d3d3;">
   <tr>
     <td>
       <a href="https://romanmalinov.github.io/coconutCat/">
