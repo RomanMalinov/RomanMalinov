@@ -54,45 +54,28 @@
   <li>Почта: <a href="mailto:malinovroman@gmail.ru" style="color: #007bff; text-decoration: none; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">malinovroman@gmail.ru</a></li>
 </ul>
 
-<table style="background: red;";>
+## Мои проекты:
+
+<table>
   <tr>
     <td>
       <a href="https://romanmalinov.github.io/coconutCat/">
-        <img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="100" />
+        <img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="100"/>
       </a>
     </td>
     <td>
-      <strong>Coconut Cat</strong> — это интерактивное веб-приложение, посвященное домашнему питомцу. Проект демонстрирует продвинутые анимации на JavaScript и техники вовлечения пользователей.
+      <b>Coconut Cat</b> — это интерактивное веб-приложение посвещенное домашнему питомцу. Проект демонстрирует продвинутые анимации на JavaScript и техники вовлечения пользователей.
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://romanmalinov.github.io/react-stellar-burger./">
-        <img src="https://code.s3.yandex.net/react/code/bun-02.png" width="100" />
+        <img src="https://code.s3.yandex.net/react/code/bun-02.png" width="100"/>
       </a>
     </td>
     <td>
-      <strong>Stellar Burger</strong> — это веб-приложение на React для создания и заказа бургеров по индивидуальному рецепту. Приложение включает в себя отслеживание заказов в реальном времени, настройку ингредиентов и удобный пользовательский интерфейс.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://romanmalinov.github.io/coconutCat/">
-        <img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="100" />
-      </a>
-    </td>
-    <td>
-      <strong>Coconut Cat</strong> — это интерактивное веб-приложение, посвященное домашнему питомцу. Проект демонстрирует продвинутые анимации на JavaScript и техники вовлечения пользователей.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://romanmalinov.github.io/coconutCat/">
-        <img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="100" />
-      </a>
-    </td>
-    <td>
-      <strong>Coconut Cat</strong> — это интерактивное веб-приложение, посвященное домашнему питомцу. Проект демонстрирует продвинутые анимации на JavaScript и техники вовлечения пользователей.
+      <b>Stellar Burger</b> — это веб-приложение на React для создания и заказа бургеров по индивидуальному рецепту. Приложение включает в себя отслеживание заказов в реальном времени, настройку ингредиентов и удобный пользовательский интерфейс.
     </td>
   </tr>
 </table>
+
