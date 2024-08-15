@@ -54,8 +54,6 @@
   <li>Почта: <a href="mailto:malinovroman@gmail.ru" style="color: #007bff; text-decoration: none; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">malinovroman@gmail.ru</a></li>
 </ul>
 
-## Мои проекты:
-
 <table>
   <tr>
     <td width="200" height="200">
@@ -63,22 +61,23 @@
         <img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="200"/>
       </a>
     </td>
-    <td>
+    <td style="color: red;">
       <b>Coconut Cat</b> — это интерактивное веб-приложение посвещенное домашнему питомцу. Проект демонстрирует продвинутые анимации на JavaScript и техники вовлечения пользователей.
     </td>
   </tr>
-  </table>
-  <table>
+</table>
+
+<table>
   <tr>
-    <td  width="200" height="200">
+    <td width="200" height="200">
       <a href="https://romanmalinov.github.io/react-stellar-burger./">
         <img src="https://code.s3.yandex.net/react/code/bun-02.png" width="200"/>
       </a>
     </td>
-    <td>
+    <td style="color: red;">
       <b>Stellar Burger</b> — это веб-приложение на React для создания и заказа бургеров по индивидуальному рецепту. Приложение включает в себя отслеживание заказов в реальном времени, настройку ингредиентов и удобный пользовательский интерфейс.
-    </td >
+    </td>
   </tr>
- </table>
+</table>
 
 
