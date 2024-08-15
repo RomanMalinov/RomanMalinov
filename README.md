@@ -54,27 +54,29 @@
   <li>Почта: <a href="mailto:malinovroman@gmail.ru" style="color: #007bff; text-decoration: none; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">malinovroman@gmail.ru</a></li>
 </ul>
 
-
 ## Мои проекты:
 
-<div style="display: grid; grid-template-columns: auto 1fr; gap: 20px;">
-  <div>
-    <a href="https://romanmalinov.github.io/coconutCat/">
-      <img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="300" />
-    </a>
-  </div>
-  <div>
-    <b>Coconut Cat</b> — это интерактивное веб-приложение, посвящённое домашнему питомцу. Проект демонстрирует продвинутые анимации на JavaScript и техники вовлечения пользователей.
-  </div>
-  
-  <div>
-    <a href="https://romanmalinov.github.io/react-stellar-burger./">
-      <img src="https://code.s3.yandex.net/react/code/bun-02.png" width="300" />
-    </a>
-  </div>
-  <div>
-    <b>Stellar Burger</b> — это веб-приложение на React для создания и заказа бургеров по индивидуальному рецепту. Приложение включает в себя отслеживание заказов в реальном времени, настройку ингредиентов и удобный пользовательский интерфейс.
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://romanmalinov.github.io/coconutCat/">
+        <img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="300"/>
+      </a>
+    </td>
+    <td>
+      <b>Coconut Cat</b> — это интерактивное веб-приложение посвещенное домашнему питомцу. Проект демонстрирует продвинутые анимации на JavaScript и техники вовлечения пользователей.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://romanmalinov.github.io/react-stellar-burger./">
+        <img src="https://code.s3.yandex.net/react/code/bun-02.png" width="300"/>
+      </a>
+    </td>
+    <td>
+      <b>Stellar Burger</b> — это веб-приложение на React для создания и заказа бургеров по индивидуальному рецепту. Приложение включает в себя отслеживание заказов в реальном времени, настройку ингредиентов и удобный пользовательский интерфейс.
+    </td>
+  </tr>
+</table>
 
 
