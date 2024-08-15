@@ -60,7 +60,7 @@
   <tr>
     <td>
       <a href="https://romanmalinov.github.io/coconutCat/">
-        <img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" height="200"/>
+        <img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="200"/>
       </a>
     </td>
     <td>
@@ -70,7 +70,7 @@
   <tr>
     <td>
       <a href="https://romanmalinov.github.io/react-stellar-burger./">
-        <img src="https://code.s3.yandex.net/react/code/bun-02.png" height="200"/>
+        <img src="https://code.s3.yandex.net/react/code/bun-02.png" width="200"/>
       </a>
     </td>
     <td>
