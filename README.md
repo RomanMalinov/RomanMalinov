@@ -54,7 +54,7 @@
   <li>Почта: <a href="mailto:malinovroman@gmail.ru" style="color: #007bff; text-decoration: none; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">malinovroman@gmail.ru</a></li>
 </ul>
 
-<table style="background: red";>
+<table style="background: red;";>
   <tr>
     <td>
       <a href="https://romanmalinov.github.io/coconutCat/">
