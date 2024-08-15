@@ -58,7 +58,7 @@
 
 <table>
   <tr>
-    <td width="500">
+    <td width="300">
       <a href="https://romanmalinov.github.io/coconutCat/">
         <img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="300"/>
       </a>
@@ -70,7 +70,7 @@
   </table>
   <table>
   <tr>
-    <td  width="500">
+    <td  width="300">
       <a href="https://romanmalinov.github.io/react-stellar-burger./">
         <img src="https://code.s3.yandex.net/react/code/bun-02.png" width="300"/>
       </a>
