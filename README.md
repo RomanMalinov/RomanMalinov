@@ -56,21 +56,7 @@
 
 
 ## Мои проекты:
-<div>
-      <style>
-   table {
-    background: #f5e8d0; /* Цвет фона таблицы */
-    border-spacing: 0; /* Расстояние между ячейками */
-   }
-   th {
-    background: #496791; /* Цвет фона ячеек */
-    color: #fff; /* Цвет текста */
-   }
-   td, th {
-    padding: 5px 10px; /* Поля в ячейках */
-   }
-  </style>
-<table>
+<table style="background: maroon;">
   <tr>
     <td>
       <a href="https://romanmalinov.github.io/coconutCat/">
@@ -92,4 +78,4 @@
     </td>
   </tr>
 </table>
-</div>
+
