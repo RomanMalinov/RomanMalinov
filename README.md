@@ -75,4 +75,24 @@
       <strong>Stellar Burger</strong> — это веб-приложение на React для создания и заказа бургеров по индивидуальному рецепту. Приложение включает в себя отслеживание заказов в реальном времени, настройку ингредиентов и удобный пользовательский интерфейс.
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://romanmalinov.github.io/coconutCat/">
+        <img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="100" />
+      </a>
+    </td>
+    <td>
+      <strong>Coconut Cat</strong> — это интерактивное веб-приложение, посвященное домашнему питомцу. Проект демонстрирует продвинутые анимации на JavaScript и техники вовлечения пользователей.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://romanmalinov.github.io/coconutCat/">
+        <img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="100" />
+      </a>
+    </td>
+    <td>
+      <strong>Coconut Cat</strong> — это интерактивное веб-приложение, посвященное домашнему питомцу. Проект демонстрирует продвинутые анимации на JavaScript и техники вовлечения пользователей.
+    </td>
+  </tr>
 </table>
