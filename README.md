@@ -59,7 +59,7 @@
 
 | [Coconut Cat](https://romanmalinov.github.io/coconutCat/) | [Stellar Burger](https://romanmalinov.github.io/react-stellar-burger./) |
 | :-------------------------------- | :-------------------------------- |
-| [<img src="https://romanmalinov.github.io/coconutCat/images/кот_в_стрильной_машине.jpg" width="100"/>](https://romanmalinov.github.io/coconutCat/) | [<img src="https://romanmalinov.github.io/react-stellar-burger./burger-preview.jpg" width="100"/>](https://romanmalinov.github.io/react-stellar-burger./) |
+| [<img src="https://romanmalinov.github.io/coconutCat/images/кот_в_стрильной_машине.jpg" width="100"/>](https://romanmalinov.github.io/coconutCat/) | [<img src="https://code.s3.yandex.net/react/code/bun-02.png" width="100"/>](https://romanmalinov.github.io/react-stellar-burger./) |
 | **Coconut Cat** — это игривое и интерактивное веб-приложение. Оно разработано как веселая игра с виртуальным питомцем, позволяющая пользователям взаимодействовать с котом через различные мини-игры и активности. Проект демонстрирует продвинутые анимации на JavaScript и техники вовлечения пользователей. | **Stellar Burger** — это веб-приложение на React для создания и заказа бургеров по индивидуальному рецепту. Приложение включает в себя отслеживание заказов в реальном времени, настройку ингредиентов и удобный пользовательский интерфейс. |
 
 
