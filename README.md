@@ -58,7 +58,7 @@
 
 <table>
   <tr>
-    <td width="200" height="200">
+    <td width="200" height="200" background="green">
       <a href="https://romanmalinov.github.io/coconutCat/">
         <img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="200"/>
       </a>
