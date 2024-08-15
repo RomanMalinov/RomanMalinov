@@ -56,9 +56,8 @@
 
 
 ## Мои проекты:
-
-<table>
-    <style>
+<div>
+      <style>
    table {
     background: #f5e8d0; /* Цвет фона таблицы */
     border-spacing: 0; /* Расстояние между ячейками */
@@ -71,6 +70,7 @@
     padding: 5px 10px; /* Поля в ячейках */
    }
   </style>
+<table>
   <tr>
     <td>
       <a href="https://romanmalinov.github.io/coconutCat/">
@@ -92,3 +92,4 @@
     </td>
   </tr>
 </table>
+</div>
