@@ -57,8 +57,8 @@
       </a>
     </td>
     <td>
-      <a href="https://romanmalinov.github.io/coconutCat/">
-        <b>Coconut Cat</b> — это интерактивное веб-приложение посвещенное домашнему питомцу. Проект демонстрирует продвинутые анимации на JavaScript и техники вовлечения пользователей.
+      <a href="https://romanmalinov.github.io/coconutCat/" style="text-decoration: none; color: black;">
+        <b>Coconut Cat</b> — это интерактивное веб-приложение, посвященное домашнему питомцу. Проект демонстрирует продвинутые анимации на JavaScript и техники вовлечения пользователей.
       </a>
     </td>
   </tr>
@@ -72,12 +72,13 @@
       </a>
     </td>
     <td>
-      <a href="https://romanmalinov.github.io/react-stellar-burger./">
+      <a href="https://romanmalinov.github.io/react-stellar-burger./" style="text-decoration: none; color: black;">
         <b>Stellar Burger</b> — это веб-приложение на React для создания и заказа бургеров по индивидуальному рецепту. Приложение включает в себя отслеживание заказов в реальном времени, настройку ингредиентов и удобный пользовательский интерфейс.
       </a>
     </td>
   </tr>
 </table>
+
 
 ## Мои контакты:
 <ul style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
