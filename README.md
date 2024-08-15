@@ -58,7 +58,7 @@
 
 <table>
   <tr>
-    <td>
+    <td width="500">
       <a href="https://romanmalinov.github.io/coconutCat/">
         <img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="300"/>
       </a>
@@ -77,7 +77,7 @@
     </td>
     <td>
       <b>Stellar Burger</b> — это веб-приложение на React для создания и заказа бургеров по индивидуальному рецепту. Приложение включает в себя отслеживание заказов в реальном времени, настройку ингредиентов и удобный пользовательский интерфейс.
-    </td>
+    </td  width="500">
   </tr>
  </table>
 
