@@ -57,14 +57,9 @@
 
 ## Мои проекты:
 
-### [Coconut Cat](  <img src="https://img.shields.io/badge/-Responsive%20Design-34a853?style=flat-square&logo=responsive-design" height="30px">)
-[![Coconut Cat](https://romanmalinov.github.io/coconutCat/cat-preview.jpg)](https://romanmalinov.github.io/coconutCat/)
-
-Coconut Cat — это игривое и интерактивное веб-приложение. Оно разработано как веселая игра с виртуальным питомцем, позволяющая пользователям взаимодействовать с котом через различные мини-игры и активности. Проект демонстрирует продвинутые анимации на JavaScript и техники вовлечения пользователей.
-
-### [Stellar Burger](https://romanmalinov.github.io/react-stellar-burger./)
-[![Stellar Burger](https://romanmalinov.github.io/react-stellar-burger./burger-preview.jpg)](https://romanmalinov.github.io/react-stellar-burger./)
-
-Stellar Burger — это веб-приложение на React для создания и заказа бургеров по индивидуальному рецепту. Приложение включает в себя отслеживание заказов в реальном времени, настройку ингредиентов и удобный пользовательский интерфейс.
+| [Coconut Cat](https://romanmalinov.github.io/coconutCat/) | [Stellar Burger](https://romanmalinov.github.io/react-stellar-burger./) |
+| :-------------------------------- | :-------------------------------- |
+| [<img src="https://romanmalinov.github.io/coconutCat/cat-preview.jpg" width="300"/>](https://romanmalinov.github.io/coconutCat/) | [<img src="https://romanmalinov.github.io/react-stellar-burger./burger-preview.jpg" width="300"/>](https://romanmalinov.github.io/react-stellar-burger./) |
+| **Coconut Cat** — это игривое и интерактивное веб-приложение. Оно разработано как веселая игра с виртуальным питомцем, позволяющая пользователям взаимодействовать с котом через различные мини-игры и активности. Проект демонстрирует продвинутые анимации на JavaScript и техники вовлечения пользователей. | **Stellar Burger** — это веб-приложение на React для создания и заказа бургеров по индивидуальному рецепту. Приложение включает в себя отслеживание заказов в реальном времени, настройку ингредиентов и удобный пользовательский интерфейс. |
 
 
