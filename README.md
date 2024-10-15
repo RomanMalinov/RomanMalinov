@@ -52,23 +52,6 @@
 <table>
   <tr>
     <td width="200" height="200">
-      <a href="https://procharity.ru">
-        <img src="https://procharity.ru/assets/img/logo.png" width="200" />
-      </a>
-    </td>
-    <td>
-      <b>ProCharity</b> — платформа, где благотворительные фонды и волонтёры могут найти друг друга. 
-      Фонды находят интеллектуальных волонтёров, которые безвозмездно помогают решать задачи, 
-      для которых часто не хватает штатных ресурсов. Волонтёры делятся своими профессиональными 
-      навыками и временем, помогая фондам решать насущные задачи и развивая свои умения вместе 
-      с благотворительными организациями.
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="200" height="200">
       <a href="https://romanmalinov.github.io/coconutCat/">
         <img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="200" />
       </a>
