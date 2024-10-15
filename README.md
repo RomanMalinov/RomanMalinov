@@ -52,27 +52,48 @@
 <table>
   <tr>
     <td width="200" height="200">
-      <a href="https://romanmalinov.github.io/coconutCat/">
-        <img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="200"/>
+      <a href="https://procharity.ru">
+        <img src="https://procharity.ru/assets/img/logo.png" width="200" />
       </a>
     </td>
     <td>
-      <b>Coconut Cat</b> — это интерактивное веб-приложение посвещенное домашнему питомцу. Проект демонстрирует возможности JavaScript и техники вовлечения пользователей.
+      <b>ProCharity</b> — платформа, где благотворительные фонды и волонтёры могут найти друг друга. 
+      Фонды находят интеллектуальных волонтёров, которые безвозмездно помогают решать задачи, 
+      для которых часто не хватает штатных ресурсов. Волонтёры делятся своими профессиональными 
+      навыками и временем, помогая фондам решать насущные задачи и развивая свои умения вместе 
+      с благотворительными организациями.
     </td>
   </tr>
-  </table>
-  <table>
+</table>
+
+<table>
   <tr>
-    <td  width="200" height="200">
-      <a href="https://romanmalinov.github.io/react-stellar-burger./">
-        <img src="https://code.s3.yandex.net/react/code/bun-02.png" width="200"/>
+    <td width="200" height="200">
+      <a href="https://romanmalinov.github.io/coconutCat/">
+        <img src="https://romanmalinov.github.io/coconutCat/images/element__img-cat-4.jpg" width="200" />
       </a>
     </td>
     <td>
-      <b>Stellar Burger</b> — это веб-приложение на React для создания и заказа бургеров по индивидуальному рецепту. Приложение включает в себя отслеживание заказов в реальном времени, настройку ингредиентов и удобный пользовательский интерфейс.
-    </td >
+      <b>Coconut Cat</b> — это интерактивное веб-приложение, посвящённое домашнему питомцу. Проект 
+      демонстрирует возможности JavaScript и техники вовлечения пользователей.
+    </td>
   </tr>
- </table>
+</table>
+
+<table>
+  <tr>
+    <td width="200" height="200">
+      <a href="https://romanmalinov.github.io/react-stellar-burger./">
+        <img src="https://code.s3.yandex.net/react/code/bun-02.png" width="200" />
+      </a>
+    </td>
+    <td>
+      <b>Stellar Burger</b> — это веб-приложение на React для создания и заказа бургеров по индивидуальному рецепту. 
+      Приложение включает в себя отслеживание заказов в реальном времени, настройку ингредиентов 
+      и удобный пользовательский интерфейс.
+    </td>
+  </tr>
+</table>
 
 
 ## Мои контакты:
